@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "imap": "^0.8.19",
+    "mailparser": "^3.5.0",
+    "unix-print": "^1.1.0"
+  },
+  "type": "module"
+}
